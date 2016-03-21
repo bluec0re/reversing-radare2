@@ -14,6 +14,26 @@ then
     echo -e "\033[91mERROR\033[0m"
     exit 1
 fi
+cd ..
+
+mkdir build-cross
+cd build-cross
+if ! cmake .. -DCMAKE_TOOLCHAIN_FILE=../toolchain-mingw64.cmake
+then
+    echo -e "\033[91mERROR\033[0m"
+    exit 1
+fi
+cd ..
+
+mkdir build-static
+cd build-static
+if ! cmake .. -DBUILD_STATIC=ON
+then
+    echo -e "\033[91mERROR\033[0m"
+    exit 1
+fi
+cd ..
+
 
 echo
 echo -e "Compile code by\n\$ \033[96mcd \033[94mbuild\033[0m\n\$ \033[96mmake\033[0m"
