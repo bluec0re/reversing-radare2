@@ -1,0 +1,670 @@
+{
+  "version": 1,
+  "width": 142,
+  "height": 39,
+  "duration": 47.710883,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.282627,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.000012,
+      "\u001b]2;bluec0re@hawk: ~/sources/challenge01\u0007\u001b]1;..s/challenge01\u0007"
+    ],
+    [
+      0.096606,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/challenge01\u001b[33m(github\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      0.000073,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000018,
+      "\u001b[?2004h"
+    ],
+    [
+      4.293144,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.199762,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.149717,
+      "\u0008\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31ma\u001b[1m\u001b[31mb\u001b[0m\u001b[39m"
+    ],
+    [
+      0.220577,
+      "\u0008\u001b[1m\u001b[31mb\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.069037,
+      "\u0008\u001b[1m\u001b[31mi\u001b[1m\u001b[31mn\u001b[0m\u001b[39m"
+    ],
+    [
+      0.666874,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mr\u001b[0m\u001b[32ma\u001b[0m\u001b[32mb\u001b[0m\u001b[32mi\u001b[0m\u001b[32mn\u001b[32m2\u001b[39m"
+    ],
+    [
+      0.374154,
+      " "
+    ],
+    [
+      0.353266,
+      "-"
+    ],
+    [
+      0.162432,
+      "z"
+    ],
+    [
+      0.098484,
+      " "
+    ],
+    [
+      0.818400,
+      "\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.096843,
+      "\u0008\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.065702,
+      "\u0008\u001b[4m/\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.181254,
+      "\u0008\u001b[4mc\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.103481,
+      "\u0008\u001b[4mh\u001b[4mallenge01\u001b[24m"
+    ],
+    [
+      1.184082,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000006,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001134,
+      "\u001b]2;rabin2 -z ./challenge01\u0007\u001b]1;rabin2\u0007"
+    ],
+    [
+      0.011097,
+      "vaddr=0x00400a28 paddr=0x00000a28 ordinal=000 sz=35 len=34 section=.rodata type=ascii string=##################################\r\nvaddr=0x00400a50 paddr=0x00000a50 ordinal=001 sz=35 len=34 section=.rodata type=ascii string=#          Challenge 1           #\r\nvaddr=0x00400a78 paddr=0x00000a78 ordinal=002 sz=35 len=34 section=.rodata type=ascii string=#                                #\r\nvaddr=0x00400aa0 paddr=0x00000aa0 ordinal=003 sz=35 len=34 section=.rodata type=ascii string=#      (c) 2016 Timo Schmid      #\r\nvaddr=0x00400ac3 paddr=0x00000ac3 ordinal=004 sz=9 len=8 section=.rodata type=ascii string=p4ssw0rd\r\nvaddr=0x00400acc paddr=0x00000acc ordinal=005 sz=11 len=10 section=.rodata type=ascii string=n0p4ssw0rd\r\nvaddr=0x00400ad7 paddr=0x00000ad7 ordinal=006 sz=17 len=16 section=.rodata type=ascii string=Enter Password: \r\nvaddr=0x00400ae8 paddr=0x00000ae8 ordinal=007 sz=6 len=5 section=.rodata type=ascii string=%255s\r\nvaddr=0x00400aee paddr=0x00000aee ordinal=008 sz=19 len=18 section=.rodata type=ascii string=Password accepted!\r\nvaddr=0x00400b01 paddr=0x00000b01 ordinal=009 sz=7 len=6 section=.rodata type=ascii string=Wrong!\r\n"
+    ],
+    [
+      0.001156,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;bluec0re@hawk: ~/sources/challenge01\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..s/challenge01\u0007"
+    ],
+    [
+      0.086551,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/challenge01\u001b[33m(github\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000043,
+      "\u001b[?2004h"
+    ],
+    [
+      1.084918,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.115244,
+      "\u0008\u001b[39m\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.197291,
+      "\u0008\u0008\u001b[4m.\u001b[4m/\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.184796,
+      "\u0008\u001b[4mc\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.161780,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[32m.\u001b[24m\u001b[32m/\u001b[24m\u001b[32mc\u001b[24m\u001b[32mh\u001b[32mallenge01\u001b[39m"
+    ],
+    [
+      0.591268,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000004,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001394,
+      "\u001b]2;./challenge01\u0007\u001b]1;./challenge01\u0007"
+    ],
+    [
+      0.000793,
+      "##################################\r\n#          Challenge 1           #\r\n#                                #\r\n#      (c) 2016 Timo Schmid      #\r\n##################################\r\nEnter Password: "
+    ],
+    [
+      2.497338,
+      "p"
+    ],
+    [
+      0.405406,
+      "4"
+    ],
+    [
+      0.245415,
+      "s"
+    ],
+    [
+      0.165991,
+      "s"
+    ],
+    [
+      0.201693,
+      "w"
+    ],
+    [
+      0.213661,
+      "0"
+    ],
+    [
+      0.146045,
+      "r"
+    ],
+    [
+      0.183338,
+      "d"
+    ],
+    [
+      0.276312,
+      "\r\nWrong!\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b]2;bluec0re@hawk: ~/sources/challenge01\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..s/challenge01\u0007"
+    ],
+    [
+      0.087837,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/challenge01\u001b[33m(github\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.981824,
+      "\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.510069,
+      "\u0008\u001b[24m \u0008"
+    ],
+    [
+      0.403274,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.461488,
+      "\u0008\u001b[39m \u0008"
+    ],
+    [
+      0.092814,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.155959,
+      "\u0008\u001b[32mr\u001b[32m2\u001b[39m"
+    ],
+    [
+      0.634464,
+      " "
+    ],
+    [
+      0.111934,
+      "-"
+    ],
+    [
+      0.276765,
+      "A"
+    ],
+    [
+      0.117423,
+      " "
+    ],
+    [
+      0.313608,
+      "\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.408251,
+      "\u0008\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.172462,
+      "\u0008\u001b[4m/\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.122201,
+      "\u0008\u001b[4mc\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.121416,
+      "\u0008\u001b[4mh\u001b[4mallenge01\u001b[24m"
+    ],
+    [
+      0.497439,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001015,
+      "\u001b]2;r2 -A ./challenge01\u0007\u001b]1;r2\u0007"
+    ],
+    [
+      0.015806,
+      "[ ] \u001b[33mAnalyze all flags starting with sym. and entry0 (aa)\r["
+    ],
+    [
+      0.001037,
+      "\r\u001b[32m[x]\u001b[0m Analyze all flags starting with sym. and entry0 (aa)\r\n\u001b[0K\r[ ] \u001b[33mAnalyze len bytes of instructions for references (aar)\r["
+    ],
+    [
+      0.000426,
+      "\r\u001b[32m[x]\u001b[0m Analyze len bytes of instructions for references (aar)\r\n[ ] \u001b[33mAnalyze function calls (aac)\r["
+    ],
+    [
+      0.000243,
+      "\r\u001b[32m[x]\u001b[0m Analyze function calls (aac)\r\n[*] Use -AA or aaaa to perform additional experimental analysis.\r\n[ ] \u001b[33mConstructing a function name for fcn.* and sym.func.* functions (aan)\r["
+    ],
+    [
+      0.000003,
+      "\r\u001b[32m[x]\u001b[0m Constructing a function name for fcn.* and sym.func.* functions (aan)\r\n"
+    ],
+    [
+      0.000072,
+      " -- r2-goverity: found corruption - please eliminate!\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x004007c0]\u003e\u001b[0m "
+    ],
+    [
+      0.625886,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m a\r\u001b[33m[0x004007c0]\u003e\u001b[0m a"
+    ],
+    [
+      0.131863,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m af\r\u001b[33m[0x004007c0]\u003e\u001b[0m af"
+    ],
+    [
+      0.453627,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m afl\r\u001b[33m[0x004007c0]\u003e\u001b[0m afl"
+    ],
+    [
+      0.202747,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m afl\r\n"
+    ],
+    [
+      0.000062,
+      "0x00400728  26    3     sym._init\r\n0x00400760  16    2     sym.imp.puts\r\n0x00400770  16    2     sym.imp.printf\r\n0x00400780  16    2     sym.imp.__libc_start_main\r\n0x00400790  16    2     sym.imp.strcmp\r\n0x004007a0  16    2     loc.imp.__gmon_start__\r\n0x004007b0  16    2     sym.imp.__isoc99_scanf\r\n0x004007c0  42    1     entry0\r\n0x004007f0  50    4     sym.deregister_tm_clones\r\n0x00400830  53    3     sym.register_tm_clones\r\n0x00400870  28    3     sym.__do_global_dtors_aux\r\n0x00400890  38    4     sym.frame_dummy\r\n0x004008b6  57    1     sym.banner\r\n0x004008ef  44    1     sym.checkPassword\r\n0x0040091b  133   4     sym.main\r\n0x004009a0  101   4     sym.__libc_csu_init\r\n0x00400a10  2     1     sym.__libc_csu_fini\r\n0x00400a14  9     1     sym._fini\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x004007c0]\u003e\u001b[0m "
+    ],
+    [
+      1.199815,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s\r\u001b[33m[0x004007c0]\u003e\u001b[0m s"
+    ],
+    [
+      0.133641,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s \r\u001b[33m[0x004007c0]\u003e\u001b[0m s "
+    ],
+    [
+      0.448603,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s s\r\u001b[33m[0x004007c0]\u003e\u001b[0m s s"
+    ],
+    [
+      0.140413,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sy\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sy"
+    ],
+    [
+      0.273434,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym"
+    ],
+    [
+      0.274237,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym."
+    ],
+    [
+      0.263277,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.m\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.m"
+    ],
+    [
+      0.668587,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym."
+    ],
+    [
+      0.180580,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.c\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.c"
+    ],
+    [
+      0.122536,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.ch\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.ch"
+    ],
+    [
+      0.182722,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.che\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.che"
+    ],
+    [
+      0.078489,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.chec\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.chec"
+    ],
+    [
+      0.110339,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.check\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.check"
+    ],
+    [
+      0.354198,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.checkP\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.checkP"
+    ],
+    [
+      0.116073,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000015,
+      "\r\u001b[2K\r\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.checkPassword \r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.checkPassword "
+    ],
+    [
+      0.321530,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "\r\u001b[33m[0x004007c0]\u003e\u001b[0m s sym.checkPassword \r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x004008ef]\u003e\u001b[0m "
+    ],
+    [
+      1.140138,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000004,
+      "\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m p\r\u001b[33m[0x004008ef]\u003e\u001b[0m p"
+    ],
+    [
+      0.118700,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pd\r\u001b[33m[0x004008ef]\u003e\u001b[0m pd"
+    ],
+    [
+      0.061097,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf"
+    ],
+    [
+      0.855196,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf\r\n"
+    ],
+    [
+      0.000712,
+      "\u001b[36m/ \u001b[0m\u001b[31m(fcn) sym.checkPassword\u001b[0m 44\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[37m; var int local_8h @ rbp-0x8\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[37m; var int local_18h @ rbp-0x18\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[31m; CALL XREF from 0x0040097a (sym.checkPassword)\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008ef\u001b[0m      \u001b[33m55\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m rbp\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008f0\u001b[0m      \u001b[33m48\u001b[37m89\u001b[37me5\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m rbp\u001b[0m,\u001b[36m\u001b[36m rsp\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008f3\u001b[0m      \u001b[33m48\u001b[37m83\u001b[37mec\u001b[33m20\u001b[0m       \u001b[0m\u001b[33msub\u001b[36m rsp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x20\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008f7\u001b[0m      \u001b[33m48\u001b[37m89\u001b[33m7d\u001b[37me8\u001b[0m       \u001b[0m\u001b[37mmov qword \u001b[0m[\u001b[36mrbp \u001b[0m-\u001b[36m\u001b[36m local_18h\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m rdi\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008fb\u001b[0m      \u001b[33m48\u001b[37mc7\u001b[33m45\u001b[37mf8\u001b[37mc3\u001b[37m0a\u001b[37m.\u001b[0m  \u001b[0m\u001b[37mmov qword \u001b[0m[\u001b[36mrbp \u001b[0m-\u001b[36m\u001b[36m local_8h\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m \u001b[33mstr.p4ssw0rd\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400903\u001b[0m      \u001b[33m48\u001b[37m8b\u001b[33m45\u001b[37me8\u001b[0m       \u001b[0m\u001b[37mmov\u001b[36m rax\u001b[0m,\u001b[36m qword \u001b[0m[\u001b[36mrbp \u001b[0m-\u001b[36m\u001b[36m local_18h\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400907\u001b[0m      \u001b[37mbe\u001b[37mcc\u001b[37m0a\u001b[33m40\u001b[32m00\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m esi\u001b[0m,\u001b[36m\u001b[36m \u001b[33mstr.n0p4ssw0rd\u001b[0m\u001b[0m    \u001b[31m ; \"n0p4ssw0rd\" @ 0x400acc\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0040090c\u001b[0m      \u001b[33m48\u001b[37m89\u001b[37mc7\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m rdi\u001b[0m,\u001b[36m\u001b[36m rax\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0040090f\u001b[0m      \u001b[37me8\u001b[33m7c\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.strcmp\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400914\u001b[0m      \u001b[37m85\u001b[37mc0\u001b[0m           \u001b[0m\u001b[36mtest\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400916\u001b[0m      \u001b[37m0f\u001b[37m94\u001b[37mc0\u001b[0m         \u001b[0m\u001b[37msete\u001b[36m al\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400919\u001b[0m      \u001b[37mc9\u001b[0m             \u001b[0m\u001b[1;35mleave\u001b[0m\u001b[0m\r\n\u001b[36m\\ \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0040091a\u001b[0m      \u001b[37mc3\u001b[0m             \u001b[0m\u001b[31mret\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x004008ef]\u003e\u001b[0m "
+    ],
+    [
+      3.357493,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m p\r\u001b[33m[0x004008ef]\u003e\u001b[0m p"
+    ],
+    [
+      0.145626,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pd\r\u001b[33m[0x004008ef]\u003e\u001b[0m pd"
+    ],
+    [
+      0.052173,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf"
+    ],
+    [
+      0.128161,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf \r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf "
+    ],
+    [
+      0.207796,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @"
+    ],
+    [
+      0.614682,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ \r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ "
+    ],
+    [
+      0.171403,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ s\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ s"
+    ],
+    [
+      0.095912,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000007,
+      "\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sy\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sy"
+    ],
+    [
+      0.246442,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000005,
+      "\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym"
+    ],
+    [
+      0.265350,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym."
+    ],
+    [
+      0.611025,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.c\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.c"
+    ],
+    [
+      0.085370,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.ch\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.ch"
+    ],
+    [
+      0.129508,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000024,
+      "\r\u001b[2K\r\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.checkPassword \r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.checkPassword "
+    ],
+    [
+      0.473840,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000016,
+      "\r\u001b[33m[0x004008ef]\u003e\u001b[0m pdf @ sym.checkPassword \r\n"
+    ],
+    [
+      0.000504,
+      "\u001b[36m/ \u001b[0m\u001b[31m(fcn) sym.checkPassword\u001b[0m 44\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[37m; var int local_8h @ rbp-0x8\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[37m; var int local_18h @ rbp-0x18\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[31m; CALL XREF from 0x0040097a (sym.checkPassword)\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008ef\u001b[0m      \u001b[33m55\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m rbp\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008f0\u001b[0m      \u001b[33m48\u001b[37m89\u001b[37me5\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m rbp\u001b[0m,\u001b[36m\u001b[36m rsp\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008f3\u001b[0m      \u001b[33m48\u001b[37m83\u001b[37mec\u001b[33m20\u001b[0m       \u001b[0m\u001b[33msub\u001b[36m rsp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x20\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008f7\u001b[0m      \u001b[33m48\u001b[37m89\u001b[33m7d\u001b[37me8\u001b[0m       \u001b[0m\u001b[37mmov qword \u001b[0m[\u001b[36mrbp \u001b[0m-\u001b[36m\u001b[36m local_18h\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m rdi\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x004008fb\u001b[0m      \u001b[33m48\u001b[37mc7\u001b[33m45\u001b[37mf8\u001b[37mc3\u001b[37m0a\u001b[37m.\u001b[0m  \u001b[0m\u001b[37mmov qword \u001b[0m[\u001b[36mrbp \u001b[0m-\u001b[36m\u001b[36m local_8h\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m \u001b[33mstr.p4ssw0rd\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400903\u001b[0m      \u001b[33m48\u001b[37m8b\u001b[33m45\u001b[37me8\u001b[0m       \u001b[0m\u001b[37mmov\u001b[36m rax\u001b[0m,\u001b[36m qword \u001b[0m[\u001b[36mrbp \u001b[0m-\u001b[36m\u001b[36m local_18h\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400907\u001b[0m      \u001b[37mbe\u001b[37mcc\u001b[37m0a\u001b[33m40\u001b[32m00\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m esi\u001b[0m,\u001b[36m\u001b[36m \u001b[33mstr.n0p4ssw0rd\u001b[0m\u001b[0m    \u001b[31m ; \"n0p4ssw0rd\" @ 0x400acc\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0040090c\u001b[0m      \u001b[33m48\u001b[37m89\u001b[37mc7\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m rdi\u001b[0m,\u001b[36m\u001b[36m rax\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0040090f\u001b[0m      \u001b[37me8\u001b[33m7c\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.strcmp\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400914\u001b[0m      \u001b[37m85\u001b[37mc0\u001b[0m           \u001b[0m\u001b[36mtest\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400916\u001b[0m      \u001b[37m0f\u001b[37m94\u001b[37mc0\u001b[0m         \u001b[0m\u001b[37msete\u001b[36m al\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x00400919\u001b[0m      \u001b[37mc9\u001b[0m             \u001b[0m\u001b[1;35mleave\u001b[0m\u001b[0m\r\n\u001b[36m\\ \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0040091a\u001b[0m      \u001b[37mc3\u001b[0m             \u001b[0m\u001b[31mret\u001b[0m\u001b[0m\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x004008ef]\u003e\u001b[0m "
+    ],
+    [
+      2.011913,
+      "\u001b[0K\r\r\u001b[2K\r^D\r\n"
+    ],
+    [
+      0.001321,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b]2;bluec0re@hawk: ~/sources/challenge01\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..s/challenge01\u0007"
+    ],
+    [
+      0.082572,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/challenge01\u001b[33m(github\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K\u001b[40C\u001b[31m44 ↵\u001b[00m\u001b[44D"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.870101,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.034387,
+      "\u0008\u001b[39m\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.197359,
+      "\u0008\u0008\u001b[4m.\u001b[4m/\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.148947,
+      "\u0008\u001b[4mc\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.133653,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[32m.\u001b[24m\u001b[32m/\u001b[24m\u001b[32mc\u001b[24m\u001b[32mh\u001b[32mallenge01\u001b[39m"
+    ],
+    [
+      0.718202,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000007,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000979,
+      "\u001b]2;./challenge01\u0007\u001b]1;./challenge01\u0007"
+    ],
+    [
+      0.000749,
+      "##################################\r\n#          Challenge 1           #\r\n#                                #\r\n#      (c) 2016 Timo Schmid      #\r\n##################################\r\nEnter Password: "
+    ],
+    [
+      1.539390,
+      "n"
+    ],
+    [
+      0.274833,
+      "0"
+    ],
+    [
+      0.264333,
+      "p"
+    ],
+    [
+      0.414468,
+      "4"
+    ],
+    [
+      0.393123,
+      "s"
+    ],
+    [
+      1.311051,
+      "s"
+    ],
+    [
+      0.478970,
+      "w"
+    ],
+    [
+      0.168979,
+      "0"
+    ],
+    [
+      0.137188,
+      "r"
+    ],
+    [
+      0.192317,
+      "d"
+    ],
+    [
+      0.186892,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "Password accepted!\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.000117,
+      "\u001b]2;bluec0re@hawk: ~/sources/challenge01\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..s/challenge01\u0007"
+    ],
+    [
+      0.085071,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mbluec0re\u001b[00m@\u001b[36mhawk\u001b[00m:\u001b[35m~/sources/challenge01\u001b[33m(github\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000045,
+      "\u001b[?2004h"
+    ],
+    [
+      1.309989,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

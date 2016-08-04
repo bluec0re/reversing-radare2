@@ -1,0 +1,3 @@
+MD5 (challenge01) = b6449993d4278f9884f45018fc128d15
+MD5 (challenge01.exe) = 1d78ad3807163cfb7b5194c1c22308c4
+MD5 (challenge01-static) = 833cdfe2b105dfda82d3d4a28bab04bd
