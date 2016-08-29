@@ -7,7 +7,7 @@ then
 fi
 
 
-mkdir build
+mkdir build 2>/dev/null
 cd build
 if ! cmake ..
 then
@@ -16,7 +16,7 @@ then
 fi
 cd ..
 
-mkdir build-cross
+mkdir build-cross 2>/dev/null
 cd build-cross
 if ! cmake .. -DCMAKE_TOOLCHAIN_FILE=../toolchain-mingw64.cmake
 then
@@ -25,7 +25,7 @@ then
 fi
 cd ..
 
-mkdir build-static
+mkdir build-static 2>/dev/null
 cd build-static
 if ! cmake .. -DBUILD_STATIC=ON
 then

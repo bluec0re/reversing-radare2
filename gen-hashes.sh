@@ -1,6 +1,13 @@
 #!/bin/bash
 
 
+if [ ! -d ../../build ]; then
+    cd $1 > /dev/null
+fi
+if [ ! -d ../../build ]; then
+    cd sources/$1
+fi
+
 cp ../../build/sources/$1/$1 .
 cp ../../build-static/sources/$1/$1 ${1}-static
 cp ../../build-cross/sources/$1/$1.exe .

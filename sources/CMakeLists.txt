@@ -1,1 +1,2 @@
 add_subdirectory(challenge01)
+add_subdirectory(challenge02)
