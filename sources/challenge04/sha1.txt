@@ -1,0 +1,3 @@
+SHA1 (challenge04) = 95a042b68c036c1d6b6698820589480be29a1437
+SHA1 (challenge04.exe) = e4351d511c05666984c43d24cd4c338b3d715a66
+SHA1 (challenge04-static) = 64d1ce0ae9a653860953faa87f88377fc0eda34b
